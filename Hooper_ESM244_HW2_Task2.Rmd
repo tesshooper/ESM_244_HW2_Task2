@@ -50,9 +50,10 @@ The Bonneville Dam on the Columbia and Snake Rivers in Oregon was initially buil
 #include_graphics("bonneville.png")
 
 ```
-**Bonneville Dam**
-![Source:Flickr](bonneville.png)
 
+![Source:Flickr](bonneville.png)
+  
+  **Bonneville Dam**
 <br>
 
 ### ***Data Wrangling, Exploration, and Visualization***
